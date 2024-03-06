@@ -52,8 +52,8 @@
 
 ### 💰 &nbsp;Donate
 
-<a href="https://saweria.co/rezadev05" target="_blank"><img src="https://user-images.githubusercontent.com/26188697/180601310-e82c63e4-412b-4c36-b7b5-7ba713c80380.png" alt="Donate For Yusril" height="41" width="174"></a>
-<a href="" target="_blank"><img src="https://github.com/rezadev05/rezadev05/blob/main/assets/bitcoin.png?raw=true" alt="Donate For Yusril" height="41" width="174"></a>
+<a href="https://saweria.co/rezadev05" target="_blank"><img src="https://user-images.githubusercontent.com/26188697/180601310-e82c63e4-412b-4c36-b7b5-7ba713c80380.png" alt="Donate For Reza" height="41" width="174"></a>
+<a href="https://github.com/rezadev05/rezadev05/blob/main/bitcoin.json" target="_blank"><img src="https://github.com/rezadev05/rezadev05/blob/main/assets/bitcoin.png?raw=true" alt="Donate For Reza" height="41" width="174"></a>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
