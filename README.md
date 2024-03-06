@@ -62,6 +62,7 @@
 <a href="mailto:rezaheryana76@gmail.com"><img src="https://img.shields.io/badge/-rezaheryana76@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/ezaaaa310"><img src="https://img.shields.io/badge/-@ezaaaa310-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://wa.me/+6285742632270/"><img src="https://img.shields.io/badge/-+6285742632270-34eb55?style=flat&logo=WhatsApp&logoColor=white"/></a>
+<a href="https://t.me/ezasarah"><img src="https://img.shields.io/badge/-@ezasarah-33ADE9?style=flat&logo=Telegram&logoColor=white"/></a>
 </p>
 
 ```Copyright (c) 2023 Rezadevv```
