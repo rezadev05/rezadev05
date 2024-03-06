@@ -47,9 +47,13 @@
 <p align="center">
 <a href="https://github.com/rezadev05">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rezadev05&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=resahdevv&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+### 💰 &nbsp;Donate
+
+<a href="https://saweria.co/rezadev05" target="_blank"><img src="https://user-images.githubusercontent.com/26188697/180601310-e82c63e4-412b-4c36-b7b5-7ba713c80380.png" alt="Donate For Yusril" height="41" width="174"></a>
+<a href="" target="_blank"><img src="https://github.com/rezadev05/rezadev05/blob/main/assets/bitcoin.png?raw=true" alt="Donate For Yusril" height="41" width="174"></a>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
@@ -58,9 +62,6 @@
 <a href="mailto:rezaheryana76@gmail.com"><img src="https://img.shields.io/badge/-rezaheryana76@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/ezaaaa310"><img src="https://img.shields.io/badge/-@ezaaaa310-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://wa.me/+6285742632270/"><img src="https://img.shields.io/badge/-+6285742632270-34eb55?style=flat&logo=WhatsApp&logoColor=white"/></a>
-
 </p>
 
-### 💰 &nbsp;Donate
-
-<a href="https://saweria.co/rezadev05" target="_blank"><img src="https://user-images.githubusercontent.com/26188697/180601310-e82c63e4-412b-4c36-b7b5-7ba713c80380.png" alt="Donate For Yusril" height="41" width="174"></a>
+```Copyright (c) 2023 Rezadevv```
