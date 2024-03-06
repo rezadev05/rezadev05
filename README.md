@@ -1,8 +1,9 @@
-![RezaDev05 Banner](https://raw.githubusercontent.com/rezadev05/rezadev05/master/banner.jpg)
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+![RezaDev05 Banner](https://github.com/rezadev05/rezadev05/blob/main/assets/banner.jpg?raw=true)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Reza</h2>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
+<!-- ## 👋 &nbsp;Hey there! I'm Reza -->
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -14,7 +15,7 @@
 ✉️ &nbsp;You can shoot me an email at rezaheryana76@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Portfolio](https://null) for more details about me. I'm open to feedback and suggestions!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/rezadev05/rezadev05/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://github.com/rezadev05/rezadev05/blob/main/assets/Night-Coding.gif?raw=true" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -45,8 +46,8 @@
 
 <p align="center">
 <a href="https://github.com/rezadev05">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rezadev05&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rezadev05&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
@@ -59,3 +60,7 @@
 <a href="https://wa.me/+6285742632270/"><img src="https://img.shields.io/badge/-+6285742632270-34eb55?style=flat&logo=WhatsApp&logoColor=white"/></a>
 
 </p>
+
+### 💰 &nbsp;Donate
+
+<a href="https://saweria.co/rezadev05" target="_blank"><img src="https://user-images.githubusercontent.com/26188697/180601310-e82c63e4-412b-4c36-b7b5-7ba713c80380.png" alt="Donate For Yusril" height="41" width="174"></a>
