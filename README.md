@@ -12,8 +12,8 @@
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at rezaheryana76@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Portfolio](https://null) for more details about me. I'm open to feedback and suggestions!
+✉️ &nbsp;You can shoot me an email at [rezaheryana76@gmail.com](mailto:rezaheryana76@gmail.com)! I'll try to respond as soon as I can.\
+📄 &nbsp;Please have a look at my [Portfolio](https://portfolio.pesaku.com) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://github.com/rezadev05/rezadev05/blob/main/assets/Night-Coding.gif?raw=true" align="right"/>
 
@@ -65,4 +65,4 @@
 <a href="https://t.me/ezasarah"><img src="https://img.shields.io/badge/-@ezasarah-33ADE9?style=flat&logo=Telegram&logoColor=white"/></a>
 </p>
 
-```Copyright (c) 2023 Rezadevv```
+`Copyright (c) 2023 Rezadevv`
